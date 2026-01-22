@@ -5,7 +5,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://pic.macked.app/static/b329569f03773811b3b6e33ed2ad1ea7-1677034588.webp" width="200"><br>
-<a href="https://mac-share-apps.github.io/.github/">
+<a href="https://ysids-apps-hub.github.io/.github/ConceptDraw">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
 <div align="center">
